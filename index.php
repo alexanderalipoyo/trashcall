@@ -28,7 +28,7 @@
                     <i class="fa fa-bars"></i>
                 </button>
                 <a class="navbar-brand page-scroll" href="#page-top">
-                    <i class="fa fa-play-circle"></i>  <span class="light">Start</span> Bootstrap
+                    <i class="fa fa-map"></i>  <span class="light">Trash</span> Call
                 </a>
             </div>
             <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
@@ -40,10 +40,14 @@
                         <a class="page-scroll" href="#about">About</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#download">Download</a>
+                        <a class="page-scroll" href="#download">Download APP</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
+
+                    </li>
+                     <li>
+                        <a class="page-scroll" href="#contact">Donate</a>
                     </li>
                 </ul>
             </div>
@@ -57,13 +61,10 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
-                        <h1 class="brand-heading">COMING SOON</h1>
-                        
-                        
+                        <h1 class="brand-heading">COMING SOON</h1>              
                     </div>
                     <div class="col-lg-8 col-lg-offset-2">
-                         <h2>TRASHCALL</h2>
-               
+                    
                          <p>"a smarty clean way to move your trash"</p>
                         
                          <ul class="list-inline banner-social-buttons">
@@ -71,10 +72,10 @@
                             <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
                         </li>
                         <li>
-                            <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                            <a href="#" class="btn btn-default btn-lg"><i class="fa fa-map fa-fw"></i> <span class="network-name">Know your location</span></a>
                         </li>
                         <li>
-                            <a href="https://plus.google.com/+Startbootstrap/posts" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">FACEBOOK</span></a>
+                            <a href="https://plus.google.com" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">FACEBOOK</span></a>
                         </li>
                     </ul>
                     </div> 
