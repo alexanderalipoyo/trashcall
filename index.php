@@ -11,24 +11,19 @@
     <meta name="author" content="">
 
     <title>TRASHCALL</title>
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-
-
-    <link href="css/grayscale.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">    <link href="css/grayscale.css" rel="stylesheet">
 
     <link href="font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-
 </head>
-
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+    <nav class="navbar navbar-custom navbar-fixed-top " role="navigation">
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
                     <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">
-                    <i class="fa fa-map"></i>  <span class="light">Trash</span> Call
+                <a class="navbar-brand navbar-right page-scroll " href="#page-top">
+                <span class="light"></span>START THROW
                 </a>
             </div>
             <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
@@ -44,7 +39,6 @@
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
-
                     </li>
                      <li>
                         <a class="page-scroll" href="#contact">Donate</a>
@@ -53,7 +47,6 @@
             </div>
      
         </div>
-        <!-- /.container -->
     </nav>
 
 <header class="intro">
@@ -61,7 +54,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
-                        <h1 class="brand-heading">COMING SOON</h1>              
+                        <!-- <h1 class="brand-heading">COMING SOON</h1>   -->
+                        <img src="img/logofinal.png" class="img-responsive logo">
                     </div>
                     <div class="col-lg-8 col-lg-offset-2">
                     
@@ -85,6 +79,12 @@
             </div>
         </div>
     </header>
+
+    <footer>
+         <div class="container text-center">
+            <p>TRASH CALL</p>
+               </div>
+    </footer>
 
     <script src="js/jquery-1.11.0.js"></script>
 
