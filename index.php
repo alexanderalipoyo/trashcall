@@ -7,6 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
+    <link rel="icon" type="image/png" href="img/trash-icon.png" sizes="32x32">
+
     <title>TRASHCALL</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">    <link href="css/grayscale.css" rel="stylesheet">
     <link href="font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
