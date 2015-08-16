@@ -61,7 +61,7 @@
                                 <a href="#" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
                             </li>
                             <li>
-                                <a href="#" class="btn btn-default btn-lg"><i class="fa fa-map fa-fw"></i> <span class="network-name">Know your location</span></a>
+                                <a href="locate.php" class="btn btn-default btn-lg"><i class="fa fa-map fa-fw"></i> <span class="network-name">Know your location</span></a>
                             </li>
                             <li>
                                 <a href="#" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">FACEBOOK</span></a>
@@ -74,7 +74,7 @@
     </header>
     <footer>
          <div class="container text-center">
-            <p>TRASH CALL 2015</p> 
+            <a href="admin/main.php"><p>TRASH CALL 2015</p></a>
                </div>
     </footer>
     <script src="js/jquery-1.11.0.js"></script>
